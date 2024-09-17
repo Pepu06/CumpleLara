@@ -70,7 +70,7 @@ export function CumpleanosNovia() {
             <Heart className="w-24 h-24 text-red-500 mx-auto animate-pulse" />
           </div>
           <p className="text-center text-xl mb-6 text-white items-center justify-center">
-            Hola gorda bueno escribo esto en el avion saliendo para bariloche. Nuestro cuarto cumpleaños juntos, tus 18 y nuestro viaje de egresados. Nos conocimos el primer año que pudimos ir al colegio y nos estamos por egresar juntos y no puedo estar mas feliz de que sea asi, te amo hasta el infinito y mas alla de toy story 18 mi amor
+            Hola gorda te escribo esto en el avion saliendo para bariloche. Nuestro cuarto cumpleaños juntos, tus 18 y nuestro viaje de egresados. Nos conocimos el primer año que pudimos ir al colegio y nos estamos por egresar juntos y no puedo estar mas feliz de que sea asi, te amo hasta el infinito y mas alla de toy story 18 mi amor
 <br/>❤️Feliz cumple❤️
           </p>
           <div className="text-center text-2xl font-semibold mb-6 text-white">
